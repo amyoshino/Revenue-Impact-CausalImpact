@@ -9,12 +9,12 @@ Here are the steps of this study:
 #### 1. Calculating impact of the product change
 There is a change in an app on Android platform on Feb-01 that caused an increase in revenue. What is the impact of the update in revenue?
 
-
+![CI-1](CausalImpact-1.png)
 
 #### 2. Estimating impact if there were a change in iPhone
 If the update were available to iPhone, what would be the impact in revenue, considering that the impact follows the same proportions.
 
-
+![CI-2](CausalImpact-2.png)
 
 
 
