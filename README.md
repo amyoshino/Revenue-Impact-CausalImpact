@@ -16,6 +16,4 @@ If the update were available to iPhone, what would be the impact in revenue, con
 
 ![CI-2](CausalImpact-2.png)
 
-
-
-
+* Due to confidentiality terms data is not available and the presentation was changed to anonymization purposes. 
