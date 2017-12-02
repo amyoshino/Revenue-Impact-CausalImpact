@@ -7,7 +7,7 @@ This project is relevant because it can be easily applied to other situations wh
 Here are the steps of this study:
 
 #### 1. Calculating impact of the product change
-There is a change in an app on Android platform on Feb-01 that caused an increase in revenue. What is the impact of the update in revenue?
+There is a change in an app on Android platform on Feb-01 that caused an increase in revenue. What is the impact of the product update in revenue?
 
 ![CI-1](CausalImpact-1.png)
 
